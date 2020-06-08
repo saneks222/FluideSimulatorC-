@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\fluide.h(214): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\fluide.h(215): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\fluide.h(218): warning C4244: аргумент: преобразование "float" в "sf::Uint8", возможна потеря данных
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\main.cpp(22): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\main.cpp(30): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\main.cpp(34): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\main.cpp(35): warning C4244: =: преобразование "double" в "T", возможна потеря данных
+          with
+          [
+              T=float
+          ]
+c:\users\sanek\desktop\nir\sfdsimulator\sfdsimulator\main.cpp(36): warning C4305: +=: усечение из "double" в "float"
+  SFDsimulator.vcxproj -> C:\Users\sanek\Desktop\NIR\SFDsimulator\x64\Debug\SFDsimulator.exe
